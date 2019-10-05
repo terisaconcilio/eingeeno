@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queiphuki.nbain.co.uk/sitemap.xml
